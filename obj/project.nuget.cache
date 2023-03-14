@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LLu5d8f7cRReNNyIkHgME++c+8dL2gmsCxS5jc4Ebf0QnhlNFRDjBVR3I/v5anU0rvQlisZuB1K4YU2z8B5Hgw==",
+  "dgSpecHash": "u3wLEzAhBf+7TJhjMXiGIswtx0f35J/0v7HCgMeE4pW22ClVdM9P0bPI6jCc2iF2g/PV7Jtox5OBMIgMoyePCA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\hack-together1\\TeamsMeetingSchedulerApp.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Interview-Scheduler\\InterviewScheduler.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.28.0\\azure.core.1.28.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.8.2\\azure.identity.1.8.2.nupkg.sha512",

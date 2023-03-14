@@ -4737,11 +4737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\hack-together1\\TeamsMeetingSchedulerApp.csproj",
-      "projectName": "TeamsMeetingSchedulerApp",
-      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\hack-together1\\TeamsMeetingSchedulerApp.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\Interview-Scheduler\\InterviewScheduler.csproj",
+      "projectName": "InterviewScheduler",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Interview-Scheduler\\InterviewScheduler.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\hack-together1\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\Interview-Scheduler\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

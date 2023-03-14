@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "TeamsMeetingSchedulerApp/1.0.0": {
+      "InterviewScheduler/1.0.0": {
         "dependencies": {
           "Azure.Identity": "1.8.2",
           "CsvHelper": "30.0.1",
@@ -16,7 +16,7 @@
           "Microsoft.Graph": "4.54.0"
         },
         "runtime": {
-          "TeamsMeetingSchedulerApp.dll": {}
+          "InterviewScheduler.dll": {}
         }
       },
       "Azure.Core/1.28.0": {
@@ -761,7 +761,7 @@
     }
   },
   "libraries": {
-    "TeamsMeetingSchedulerApp/1.0.0": {
+    "InterviewScheduler/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
