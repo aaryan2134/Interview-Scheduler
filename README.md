@@ -1,6 +1,6 @@
-# Project Name
+# Interview Scheduler
 
-## Interview Scheduler
+[![Hack Together: Microsoft Graph and .NET](https://img.shields.io/badge/Microsoft%20-Hack--Together-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
 
 ### Description
 
@@ -29,12 +29,18 @@ This project is an automated tool for recruiters to schedule interviews on teams
 6. Follow the instructions on the screen
 7. Have fun!
 
-### Screenshots
-![Image](RunningTheApp.jpg)
-![Image](EmailToInterviewee.jpg)
-![Image](EmailToInterviewer.jpg)
-
-<br>
 Now, recruiters can easily inform about the interviews using personalized emails without having the need to do it themselves!
 
-[![Hack Together: Microsoft Graph and .NET](https://img.shields.io/badge/Microsoft%20-Hack--Together-orange?style=for-the-badge&logo=microsoft)](https://github.com/microsoft/hack-together)
+### Screenshots
+![Image](RunningTheApp.jpg)
+<br>
+<br>
+![Image](EmailToInterviewee.jpg)
+<br>
+<br>
+![Image](EmailToInterviewer.jpg)
+<br>
+<br>
+
+<br>
+<br>
