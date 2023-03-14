@@ -41,6 +41,9 @@ Now, recruiters can easily inform about the interviews using personalized emails
 ![Image](EmailToInterviewer.jpg)
 <br>
 <br>
+![Image](csvFile.jpg)
+<br>
+<br>
 
 <br>
 <br>
