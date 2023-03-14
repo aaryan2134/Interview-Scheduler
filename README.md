@@ -1,6 +1,4 @@
-# Project Name
-
-## Interview Scheduler
+# Interview Scheduler
 
 ### Description
 
